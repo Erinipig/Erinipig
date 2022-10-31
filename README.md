@@ -5,7 +5,7 @@
 <div align="center">
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erinipig&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-![Erinipig's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erinipig&layout=compact&hide_border=true&langs_count=10)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
