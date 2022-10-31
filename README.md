@@ -15,10 +15,6 @@
 ## 这个博客用来干嘛
 - 记录学习经历
 - 然后就没了，就是为了学习用的
-<div align="center">
-	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erinipig&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div> <br />
-
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme) 
 <br/>
@@ -27,6 +23,9 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode" />
 </div> <br/>
 
+<div align="center">
+	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erinipig&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div> <br />
 
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
