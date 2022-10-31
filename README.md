@@ -27,11 +27,6 @@
 	<img src="https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode" />
 </div> <br/>
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Erinipig" />
-</div><br/>
-
-
 
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
