@@ -1,14 +1,16 @@
 ### Hi there 👋
-<a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Erinipig of the Blog" /></a> 
-![info](https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&count_private=true&hide=prs&theme=radical)
+<a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Erinipig of the Blog" /></a><br/>
+![info](https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&count_private=true&hide=prs&theme=radical) <br/>
 <div align="center">
 	<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erinipig&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-</div>
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+</div> <br />
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme) <br/>
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode" />
-</div>
-
+</div> <br/>
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN" />
+</div><br/>
 
 <!--
 **Erinipig/Erinipig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
