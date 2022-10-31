@@ -8,8 +8,6 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode" />
 </div>
-[![Erinipig Blog](https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode)](https://github.com/Erinipig)
-
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
 <!--
