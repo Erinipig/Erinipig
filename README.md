@@ -25,8 +25,10 @@
 </div> <br/>
 
 <div align="center">
-	<img  src="https://github-profile-trophy.vercel.app/?username=Erinipig" />
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Erinipig" />
 </div><br/>
+
+
 
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
