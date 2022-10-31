@@ -3,10 +3,9 @@
 <div align="center">
 	<img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
-![](https://img.shields.io/badge/python-3.9-orange)
-<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jackyfzh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
-<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyfzh&layout=compact&theme=vue&hide_border=true" /></a>
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
+<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
+<a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erinipig&layout=compact&theme=vue&hide_border=true" /></a>
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&theme=radical)
 
 <!--
 **Erinipig/Erinipig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
