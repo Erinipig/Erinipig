@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
+	<img src="https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode" />
 </div>
 [![Erinipig Blog](https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode)](https://github.com/Erinipig)
 
