@@ -8,7 +8,7 @@
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" />
 </div>
-[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode)](https://github.com/sun0225SUN)
+[![Erinipig Blog](https://activity-graph.herokuapp.com/graph?username=Erinipig&theme=xcode)](https://github.com/Erinipig)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
 
