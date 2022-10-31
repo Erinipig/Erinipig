@@ -30,8 +30,8 @@
 
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=Erinipig" />
-[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
-</div><br/>
+</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Erinipig)](https://github.com/ryo-ma/github-profile-trophy)<br/>
 
 <h1 align="center">
 	<a href="https://sunguoqi.com/">
