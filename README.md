@@ -2,8 +2,8 @@
 
 
 <a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](http://antzuhl.cn:4000/get/@Erinipig)
 
 <!--
 **Erinipig/Erinipig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
