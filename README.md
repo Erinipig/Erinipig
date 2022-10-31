@@ -1,3 +1,11 @@
+## akpigs的GitHub博客网站
+
+### 关于我
+- Blog: https://github.com/Erinipig & https://akpigs.blog.csdn.net
+- Hobby: Music、English、Hacker
+- Sth: 等待上传中...
+
+
 <a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Erinipig of the Blog" /></a><br/>
 
 ![info](https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&count_private=true&hide=prs&theme=radical) <br/>
