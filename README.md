@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
+<a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
 
 
 <!--
