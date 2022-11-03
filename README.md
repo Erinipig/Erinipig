@@ -1,7 +1,7 @@
 ## akpigs的GitHub博客网站
 
 ### 关于我
-- Blog: https://github.com/Erinipig & https://akpigs.blog.csdn.net
+- Blog: https://github.com/Erinipig & https://erinipig.github.io
 - Hobby: Music、English、Hacker、CTF、Pwn
 - Motto：君子藏器于身，待时而动;天下有道则见,无道则隐。
 - Sth: 等待上传中...
