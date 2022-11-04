@@ -29,7 +29,7 @@
 
 <h1 align="center">
 	<a href="https://erinipig.github.io/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=AdvancingKnowledgeTransformLives(%22Hello%2C%20游客!%22);Erinipig祝您今天愉快!&center=true&size=27">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=AdvancingKnowledge(%22Hello%2C%20游客!%22);Erinipig祝您今天愉快!&center=true&size=27">
 	</a>
 </h1>
 
