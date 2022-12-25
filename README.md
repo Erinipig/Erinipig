@@ -1,8 +1,9 @@
 ## akpigs的GitHub博客网站
 
-### 关于我
+## About Me
 - Blog: https://github.com/Erinipig & https://erinipig.github.io
-- Hobby: Music、English、Hacker、CTF、Pwn
+- Hobby: Music、English、Sport、CTF、吹牛
+- SKill: Nothing
 - Motto：君子藏器于身，待时而动;天下有道则见,无道则隐。
 - Sth: 等待上传中...
 
@@ -11,11 +12,16 @@
 
 ![info](https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&count_private=true&hide=prs&theme=radical) 
 <br/>
+## Why？为什么要搭建这个博客
+- 因为太蠢了，老是忘记做过的事，学过的内容
+- 因为想在互联网上留下自己的痕迹，记录生活
+- 因为没钱买服务，还有就是懒（懒和蠢是我的特点）
 
-## 这个博客用来干嘛
-- 记录学习经历
+## How？ 这个博客用来干嘛
+- 记录学习经历，记录生活
 - 然后就没了，就是为了学习用的
 
+## When？
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme) 
 <br/>
 
