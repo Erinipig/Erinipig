@@ -1,4 +1,4 @@
-## akpigs的GitHub博客网站
+## Erinipig的GitHub博客
 
 ## About Me
 - Blog: https://github.com/Erinipig & https://erinipig.github.io
@@ -6,6 +6,7 @@
 - SKill: Nothing
 - Motto：君子藏器于身，待时而动;天下有道则见,无道则隐。
 - Sth: 等待上传中...
+- 
 
 <a href="https://github.com/Erinipig"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Erinipig&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Erinipig of the Blog" /></a><br/>
 
@@ -16,12 +17,12 @@
 - 因为太蠢了，老是忘记做过的事，学过的内容
 - 因为想在互联网上留下自己的痕迹，记录生活
 - 因为没钱买服务，还有就是懒（懒和蠢是我的特点）
+- EveryOne have it，why咱不能有
 
 ## How？ 这个博客用来干嘛
-- 记录学习经历，记录生活
-- 然后就没了，就是为了学习用的
+- 记录学习经历，记录生活，因为有记录在所以才有回忆，这些都是成长的经历》
+- 然后就没了，就是为了学习用的，也可能是用来，不说话装逼，装大佬
 
-## When？
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme) 
 <br/>
 
