@@ -1,7 +1,7 @@
 ## Erinipig的GitHub博客
 
 ## About Me
-- Blog: https://github.com/Erinipig & https://erinipig.github.io
+- Blog: https://erinipig.github.io
 - Hobby: Music、English、Sport、CTF、吹牛
 - SKill: Nothing
 - Motto：君子藏器于身，待时而动;天下有道则见,无道则隐。
